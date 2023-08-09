@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amit Singh</h1>
 <h3 align="center">A passionate about Technologies & keen to know about it</h3>
 
-<img align="right" width="400" alt="coding" src="https://media.tenor.com/2uyENRmiUt0AAAAM/coding.gif">
+<img align="right" width="400" alt="coding" src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=boundless8002&label=Profile%20views&color=0e75b6&style=flat" alt="boundless8002" /> </p>
 
